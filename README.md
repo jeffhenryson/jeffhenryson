@@ -1,28 +1,30 @@
-<h1 align="center">Prazer, Jeff Henryson ☕👨‍💻 </h1>
-<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Devops</h3>
+<div> 
+<h2 align="center">Prazer, Jeff Henryson ☕👨‍💻 </h2>
+<h3 align="center">Estudante de Análise e Desenvolvimento de Sistemas | Devops</h3>  
+</div>
+<br>
+<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="300px" max-width="300px" width="300px" align="right">
+<br>
+<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
+<div align="left">
+<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
+  <legend align="left"><h3>Sobre Mim</h3></legend>
+  <em>
+Sou um aspirante a DevOps e estudante do 1° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Estacio</strong>.</p>
+  </em> 
 <p align="center">
   <a href="mailto:jeffhunbruey@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/jeff-henryson/?locale=pt" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://api.whatsapp.com/send/?phone=5583996697177" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </p>
-<img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-
-<div align="left">
-<fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>Sobre Mim</h3></legend>
-
-  <em>
-Sou um aspirante a DevOps e estudante do 1° semestre de <strong>Análise e Desenvolvimento de Sistemas</strong> na <strong>Estacio</strong>.</p>
-  </em> 
   <br>
 <div align= "center">
   <b><i>Tecnologias em aprendizado</i></b> 
 </div>
-
 <br>
-  
 <p style="display: inline-block;" align="left">
    <kbd>
     <kbd>Back-end</kbd>
