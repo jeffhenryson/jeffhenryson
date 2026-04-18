@@ -128,3 +128,7 @@ Data de início: 02.26
 Data de conclusão: 06.28
 <br/>
 <br/>
+
+
+## Meu Spotify
+ ![jeffhenryson18](https://spotify-recently-played-readme.vercel.app/api?user=jeffhenryson18)
