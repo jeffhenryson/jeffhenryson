@@ -131,8 +131,9 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/iuricode/) para
 
 **Análise e Desenvolvimento de sistemas** \
 **Estacio** • Tecnólogo \
-Data de início: 02.26
-Data de conclusão: 06.28
+**Data de início:** 02.26
+<br>
+**Data de conclusão:** 06.28
 <br/>
 <br/>
 
