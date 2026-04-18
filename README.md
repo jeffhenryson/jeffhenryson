@@ -94,6 +94,13 @@ Acredito que os melhores profissionais são aqueles que nunca param de aprender 
 
 <h1>Experiência de trabalho</h1>
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.ibb.co/rGY4rRXj/400px-grad1-icon-black-bg.png"/>](https://www.cernedsgn.xyz/)
+
+**CTO** \
+[**Cerne Group**](https://www.cernedsgn.xyz/) • Autônomo \
+Linguagens & Tecnologias: `Java`, `Python`, `Resolução de problemas`, `SaaS`, `Automação Empresarial`\
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://i.ibb.co/tTwYS0s7/1726748208197.jpg"/>](https://complysolutions.com.br/)
 
 **Analista de sistema Pleno** \
@@ -112,7 +119,7 @@ Linguagens & Tecnologias: `LDAP`, `SQL`, `XML`, `Análise de dados`, `SOAP`, `An
 
 **Assistente Administrativo** \
 **Target Music** • Contract \
-Competências: `Administração`, `Atendimento ao cliente`, `Gestão Documental`, `Proatividade`, `Adaptabilidade` \
+Competências: `Administração`, `Atendimento ao cliente`, `Gestão Documental`, `Proatividade` \
 <br/>
 <br/>
 
